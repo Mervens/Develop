@@ -11,3 +11,8 @@ Changes made to Horiseon repository file:
 9. Changed  'div' element to header, nav, section, aside, and footer in HTML
 10. Changed 'div' in CSS to match nav
 11. Added 'main' for main content and side elements
+
+
+![image](https://user-images.githubusercontent.com/82620500/116842190-bc2fbd00-aba9-11eb-861a-9aecf7d32951.png)
+
+Link at https://mervens.github.io/Horiseon-Solutions-Code-Refactor/
